@@ -1,6 +1,6 @@
 {
+  "installCommand": "npm install",
   "build": {
-    "installCommand": "npm install --legacy-peer-deps && npm install react-scripts --global",
     "buildCommand": "react-scripts build",
     "outputDirectory": "build"
   }
