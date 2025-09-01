@@ -1,7 +1,5 @@
 {
+  "buildCommand": "npm run build",
   "installCommand": "npm install",
-  "build": {
-    "buildCommand": "react-scripts build",
-    "outputDirectory": "build"
-  }
+  "outputDirectory": "build"
 }
